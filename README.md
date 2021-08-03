@@ -1,4 +1,14 @@
-# cifar 图像分类
+# image classification on CIFAR10
+
+## Abstract
+
+WideResNet(WRN) + Sharpness-Aware Minimization(SAM) brings an accuracy of 97.2% on CIfar10 dataset in 200 epochs.
+
+WRN: [Wide Residual Networks](https://arxiv.org/pdf/1605.07146v4.pdf)
+
+SAM: [Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/pdf/2010.01412v3.pdf)
+
+Also, many other instresting experiments for convolution neural networks(CNNs) are done. Refer to the report for more details!
 
 ## 摘要
 
